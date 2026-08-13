@@ -1,2 +1,7 @@
-# template-mta-sts-sub-domain
-A template for creating an MTA-STS subdomain
+---
+layout: none
+title: This page was intentionally left blank
+permalink: /
+---
+
+This page was intentionally left blank
