@@ -2,8 +2,8 @@
 
 
 1. Copy this template repo.
-1. change the `CNAME` file contents to `mta-sts.yourdomain.tld`.
-1. set up the DNS records to point to GitHub's IP ranges.
+1. Change the `CNAME` file contents to `mta-sts.yourdomain.tld`.
+1. Set up the DNS records to point to GitHub's IP ranges.
    - 185.199.108.153
    - 185.199.109.153
    - 185.199.110.153
